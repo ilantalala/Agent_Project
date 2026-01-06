@@ -1,5 +1,5 @@
 # Hebrew AI Customer Service Chat Widget
-# Video link: <https://www.loom.com/share/103b0c6c42714628b17333cf85990d64>
+# Video link: <https://www.loom.com/share/19dc22239500469089b1499ff4e8a522>
 A full-stack AI-powered customer service chatbot with conversation history, built with React and FastAPI.
 
 ## Features
